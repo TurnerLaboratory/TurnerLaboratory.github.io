@@ -1,22 +1,25 @@
 ---
 ---
 
-# TurnerLaboratory's Website
+# The Turner lab at UAlbany
 
-An engaging 1-3 sentence description of your lab.
+How do visual systems work in the real world? Answering this question means understanding the mechanisms, functions and principles that underlie visual processing and behavior in real animals, doing real behaviors, and seeing real visual scenes.
+
+We use the fruit fly, _Drosophila melanogaster_, as a model to understand natural vision. Fruit flies are very visual creatures, and they perform a wide array of complex visually-guided behaviors. Because of the excellent genetic and connectomic tools available in flies, we can connect features of visual behavior and computation to specific neurons and circuits. We use a variety of techniques, including _in vivo_ two-photon microscopy, behavioral assays, molecular genetics, and computational modeling.
+
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are currently looking for scientists at all levels to work with us to understand how the brain processes visual information in naturalistic contexts. Projects in the lab use include cool techniques like _in vivo_ two-photon imaging, analysis of big datasets, animal behavior, and more!
+
+The Turner lab strives to be a welcoming and supportive environment for all of its members. If you want to support this mission, and you're interested in these scientific questions and techniques, please reach out to Max!
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="contact"
+  text="Join us!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,56 +29,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/parker_pond.jpg"
+  link="contact"
+  title="Join us!"
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}

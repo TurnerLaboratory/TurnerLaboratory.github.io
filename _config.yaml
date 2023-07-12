@@ -1,18 +1,16 @@
 # site properties and page defaults
-title: TurnerLaboratory
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Turner Lab
+subtitle: Visual computation and visually-guided behavior in a natural context
+description:
+header: images/glom_pop_responses.png
+footer: images/natscene_heatmap.png
 
 # site social media and other links
 links:
-  email: contact@TurnerLaboratory.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: mhturner@stanford.edu
+  google-scholar: S_ujhOYAAAAJ
   github: TurnerLaboratory
-  twitter: TurnerLaboratory
-  youtube: TurnerLaboratory
+  twitter: MaxwellHTurner
 
 ### jekyll settings
 
