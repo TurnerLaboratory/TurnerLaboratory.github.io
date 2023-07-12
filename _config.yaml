@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Turner Lab
-subtitle: Visual computation and visually-guided behavior in the real world
-description: How do visual systems work in the real world? Answering this question means understanding the mechanisms, functions and principles that underlie visual processing and behavior in real animals, doing real behaviors, and seeing real visual scenes.
+subtitle: Visual computation and visually-guided behavior in a natural context
+description:
 header: images/glom_pop_responses.png
 footer: images/natscene_heatmap.png
 
