@@ -3,7 +3,7 @@
 
 # TurnerLaboratory's Website
 
-An engaging 1-3 sentence description of your lab.
+How do visual systems work in the real world? Answering this question means understanding the mechanisms, functions and principles that underlie visual processing and behavior in real animals, doing real behaviors, and seeing real visual scenes.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Join us! We are currently looking for scientists at all levels to work with us to understand how the brain processes visual information in naturalistic contexts. 
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="contact"
+  text="Contact us!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,55 +27,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="contact"
+  title="Contact us!"
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
