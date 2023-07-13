@@ -23,7 +23,7 @@ The anatomical structure of neural circuits can strongly constrain the function 
 
 ### Highlighted publications
 
-{% include citation.html lookup="The connectome predicts resting state functional connectivity across the Drosophila brain" style="rich" %}
+{% include citation.html lookup="The connectome predicts resting-state functional connectivity across the Drosophila brain" style="rich" %}
 
 {% include section.html %}
 
