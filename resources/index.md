@@ -7,21 +7,21 @@ nav:
 
 ## Software
 
-{% include list.html component="card" data="tools" filters="group: software" style="small" %}
+{% include list.html component="card" data="resources" filters="group: software" style="small" %}
 
 
 {% include section.html %}
 
 ## Data
 
-{% include list.html component="card" data="tools" filters="group: data" style="small" %}
+{% include list.html component="card" data="resources" filters="group: data" style="small" %}
 
 
 {% include section.html %}
 
 ## Reagents
 
-{% include list.html component="card" data="tools" filters="group: reagents" style="small" %}
+{% include list.html component="card" data="resources" filters="group: reagents" style="small" %}
 
 
 {% include section.html %}
