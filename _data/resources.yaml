@@ -23,7 +23,7 @@
   description: Pan-glomerulus imaging data of flies presented with various visual stimuli, including panels of synthetic stimuli as well as more naturalistic visual stimuli associated with natural fly walking behavior.
 
 - name: Presynaptically localized GCaMP: syt1-GCaMP6f
-  group: reagent
+  group: reagents
   image: 
   link: https://www.addgene.org/190896/
   description: This is a version of the calcium sensor GCaMP6f fused to synaptotagmin 1, which is a presynaptic active zone protein. syt1-GCaMP6f is localized in presynaptic terminals.
