@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: https://doi.org/10.7554/eLife.82587
+- id: doi:10.7554/eLife.82587
   title: Visual and motor signatures of locomotion dynamically shape a population
     code for feature detection in Drosophila
   authors:
@@ -10,7 +10,7 @@
   - Thomas R Clandinin
   publisher: eLife
   date: '2022-10-27'
-  link: https://doi.org/10.7554/eLife.82587
+  link: https://doi.org/gq48b4
   image: https://iiif.elifesciences.org/lax:82587%2Felife-82587-fig3-v3.tif/full/1500,/0/default.jpg
   repo: https://github.com/mhturner/glom_pop
   tags:
@@ -19,7 +19,7 @@
   - natural scenes
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.7554/eLife.38841
+- id: doi:10.7554/eLife.38841
   title: Receptive field center-surround interactions mediate context-dependent spatial
     contrast encoding in the retina
   authors:
@@ -28,7 +28,7 @@
   - Fred Rieke
   publisher: eLife
   date: '2018-09-06'
-  link: https://doi.org/10.7554/eLife.38841
+  link: https://doi.org/gpb387
   image: https://iiif.elifesciences.org/lax/38841%2Felife-38841-fig6-v2.tif/full/1500,/0/default.jpg
   repo: https://github.com/mhturner/CenterSurroundInteractions
   tags:
@@ -37,7 +37,7 @@
   - natural scenes
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.7554/eLife.70611
+- id: doi:10.7554/eLife.70611
   title: Adaptation in cone photoreceptors contributes to an unexpected insensitivity
     of primate On parasol retinal ganglion cells to spatial structure in natural images
   authors:
@@ -47,7 +47,7 @@
   - Fred Rieke
   publisher: eLife
   date: '2022-03-14'
-  link: https://doi.org/10.7554/eLife.70611
+  link: https://doi.org/gsgjkk
   image: https://iiif.elifesciences.org/lax/70611%2Felife-70611-fig8-v2.tif/full/1500,/0/default.jpg
   tags:
   - retina
@@ -86,7 +86,7 @@
   - connectome
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1038/s41593-018-0284-0
+- id: doi:10.1038/s41593-018-0284-0
   title: Stimulus- and goal-oriented frameworks for understanding natural vision
   authors:
   - Maxwell H. Turner
@@ -94,8 +94,8 @@
   - Odelia Schwartz
   - Fred Rieke
   publisher: Nature Neuroscience
-  date: '2019-01-01'
-  link: https://www.nature.com/articles/s41593-018-0284-0
+  date: '2018-12-10'
+  link: https://doi.org/gfrhgh
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-018-0284-0/MediaObjects/41593_2018_284_Fig5_HTML.png?as=webp
   tags:
   - review
@@ -103,7 +103,7 @@
   - AI
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1073/pnas.1803490115
+- id: doi:10.1073/pnas.1803490115
   title: GABA release selectively regulates synapse development at distinct inputs
     on direction-selective retinal ganglion cells
   authors:
@@ -118,18 +118,21 @@
   - Wei Wei
   - Rachel O. Wong
   publisher: Proceedings of the National Academy of Sciences
-  date: '2018-12-18'
-  link: https://pnas.org/doi/full/10.1073/pnas.1803490115
+  date: '2018-12-03'
+  link: https://doi.org/ggrsnf
   tags:
   - retina
   plugin: sources.py
   file: sources.yaml
-- id: http://dx.doi.org/10.1016/j.neuron.2016.05.006
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: http://dx.doi.org/10.1016/j.neuron.2016.05.006
+- id: doi:10.1016/j.neuron.2016.05.006
+  title: Synaptic Rectification Controls Nonlinear Spatial Integration of Natural
+    Visual Inputs
+  authors:
+  - "Maxwell\_H. Turner"
+  - Fred Rieke
+  publisher: Neuron
+  date: '2016-06-01'
+  link: https://doi.org/f8r4ff
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627316301660-gr8.jpg
   tags:
   - retina
@@ -137,12 +140,17 @@
   - electrophysiology
   plugin: sources.py
   file: sources.yaml
-- id: http://dx.doi.org/10.1016/j.neuron.2015.11.019
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: http://dx.doi.org/10.1016/j.neuron.2015.11.019
+- id: doi:10.1016/j.neuron.2015.11.019
+  title: Direction-Selective Circuits Shape Noise to Ensure a Precise Population Code
+  authors:
+  - Joel Zylberberg
+  - Jon Cafaro
+  - "Maxwell\_H. Turner"
+  - Eric Shea-Brown
+  - Fred Rieke
+  publisher: Neuron
+  date: '2016-01-01'
+  link: https://doi.org/f8g28m
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010259-gr1.jpg
   tags:
   - retina
@@ -184,12 +192,18 @@
   - electrophysiology
   plugin: sources.py
   file: sources.yaml
-- id: http://dx.doi.org/10.1016/j.cub.2013.12.020
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: http://dx.doi.org/10.1016/j.cub.2013.12.020
+- id: doi:10.1016/j.cub.2013.12.020
+  title: Visual Space Is Represented by Nonmatching Topographies of Distinct Mouse
+    Retinal Ganglion Cell Types
+  authors:
+  - Adam Bleckert
+  - "Gregory\_W. Schwartz"
+  - "Maxwell\_H. Turner"
+  - Fred Rieke
+  - "Rachel\_O.L. Wong"
+  publisher: Current Biology
+  date: '2014-02-01'
+  link: https://doi.org/f5rpv7
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982213015790-gr4.jpg
   tags:
   - retina
