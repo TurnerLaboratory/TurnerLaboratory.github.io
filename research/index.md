@@ -36,7 +36,7 @@ Most of what we know about how the visual system works comes from studies using 
 
 {% include citation.html lookup="Receptive field center-surround interactions mediate context-dependent spatial contrast encoding in the retina" style="rich" %}
 
-{% include citation.html lookup="Synaptic rectification controls nonlinear spatial integration of natural visual inputs" style="rich" %}
+{% include citation.html lookup="10.1016/j.neuron.2016.05.006" style="rich" %}
 
 {% include section.html %}
 
