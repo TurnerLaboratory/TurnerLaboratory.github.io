@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research projects
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -39,11 +39,3 @@ Most of what we know about how the visual system works comes from studies using 
 {% include citation.html lookup="10.1016/j.neuron.2016.05.006" style="rich" %}
 
 {% include section.html %}
-
-## All publications
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
