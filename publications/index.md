@@ -1,5 +1,11 @@
+---
+title: Publications
+nav:
+  order: 2
+  tooltip: Published work from the lab
+---
 
-## All publications
+# Publications
 
 For an up-to-date publication list, check out my [Google Scholar Profile](https://scholar.google.com/citations?user=S_ujhOYAAAAJ&hl=en)
 
