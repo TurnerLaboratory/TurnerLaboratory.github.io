@@ -15,8 +15,8 @@
   repo: https://github.com/mhturner/glom_pop
   tags:
   - Drosophila
-  - Imaging
-  - Natural scenes
+  - imaging
+  - natural scenes
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.7554/eLife.38841
@@ -32,9 +32,9 @@
   image: https://iiif.elifesciences.org/lax/38841%2Felife-38841-fig6-v2.tif/full/1500,/0/default.jpg
   repo: https://github.com/mhturner/CenterSurroundInteractions
   tags:
-  - Retina
-  - Electrophysiology
-  - Natural scenes
+  - retina
+  - electrophysiology
+  - natural scenes
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.7554/eLife.70611
@@ -50,34 +50,40 @@
   link: https://doi.org/10.7554/eLife.70611
   image: https://iiif.elifesciences.org/lax/70611%2Felife-70611-fig8-v2.tif/full/1500,/0/default.jpg
   tags:
-  - Retina
-  - Electrophysiology
-  - Natural scenes
+  - retina
+  - electrophysiology
+  - natural scenes
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1016/j.cub.2021.07.051
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/10.1016/j.cub.2021.07.051
+- id: pubmed:34582814
+  title: 'Neuroscience: Convergence of biological and artificial networks.'
+  authors:
+  - Maxwell H Turner
+  - Thomas R Clandinin
+  publisher: 'Current biology : CB'
+  date: '2021-09-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34582814
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221010411-gr1.jpg
   tags:
   - Drosophila
-  - Review
+  - review
   - AI
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1016/j.cub.2021.03.004
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/10.1016/j.cub.2021.03.004
+- id: pubmed:33770490
+  title: The connectome predicts resting-state functional connectivity across the
+    Drosophila brain.
+  authors:
+  - Maxwell H Turner
+  - Kevin Mann
+  - Thomas R Clandinin
+  publisher: 'Current biology : CB'
+  date: '2021-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33770490
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221003432-gr2.jpg
   tags:
   - Drosophila
-  - Connectome
+  - connectome
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1038/s41593-018-0284-0
@@ -92,8 +98,113 @@
   link: https://www.nature.com/articles/s41593-018-0284-0
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-018-0284-0/MediaObjects/41593_2018_284_Fig5_HTML.png?as=webp
   tags:
-  - Review
-  - Natural scenes
+  - review
+  - natural scenes
   - AI
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1073/pnas.1803490115
+  title: GABA release selectively regulates synapse development at distinct inputs
+    on direction-selective retinal ganglion cells
+  authors:
+  - Adam Bleckert
+  - Chi Zhang
+  - Maxwell H. Turner
+  - David Koren
+  - David M. Berson
+  - Silvia J. H. Park
+  - Jonathan B. Demb
+  - Fred Rieke
+  - Wei Wei
+  - Rachel O. Wong
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-12-18'
+  link: https://pnas.org/doi/full/10.1073/pnas.1803490115
+  tags:
+  - retina
+  plugin: sources.py
+  file: sources.yaml
+- id: http://dx.doi.org/10.1016/j.neuron.2016.05.006
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: http://dx.doi.org/10.1016/j.neuron.2016.05.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627316301660-gr8.jpg
+  tags:
+  - retina
+  - natural scenes
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: http://dx.doi.org/10.1016/j.neuron.2015.11.019
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: http://dx.doi.org/10.1016/j.neuron.2015.11.019
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010259-gr1.jpg
+  tags:
+  - retina
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13064-015-0042-x
+  title: Type I intrinsically photosensitive retinal ganglion cells of early post-natal
+    development correspond to the M4 subtype
+  authors:
+  - Timothy J. Sexton
+  - Adam Bleckert
+  - Maxwell H. Turner
+  - Russell N. Van Gelder
+  publisher: Neural Development
+  date: '2015-06-21'
+  link: https://doi.org/f7rftc
+  tags:
+  - retina
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nn.3851
+  title: Nonlinear dendritic integration of electrical and chemical synaptic inputs
+    drives fine-scale correlations
+  authors:
+  - Stuart Trenholm
+  - Amanda J McLaughlin
+  - David J Schwab
+  - Maxwell H Turner
+  - Robert G Smith
+  - Fred Rieke
+  - Gautam B Awatramani
+  publisher: Nature Neuroscience
+  date: '2014-10-26'
+  link: https://doi.org/f6qtfx
+  tags:
+  - retina
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: http://dx.doi.org/10.1016/j.cub.2013.12.020
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: http://dx.doi.org/10.1016/j.cub.2013.12.020
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982213015790-gr4.jpg
+  tags:
+  - retina
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1113/jphysiol.2011.225896
+  title: A method for detecting molecular transport within the cerebral ventricles
+    of live zebrafish (<i>Danio rerio</i>) larvae
+  authors:
+  - Maxwell H. Turner
+  - Jeremy F.P. Ullmann
+  - Alan R. Kay
+  publisher: The Journal of Physiology
+  date: '2012-05-15'
+  link: https://doi.org/f3x7jv
   plugin: sources.py
   file: sources.yaml
