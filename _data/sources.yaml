@@ -43,12 +43,12 @@
     - AI
 
   - id: https://doi.org/10.1073/pnas.1803490115
-  tags:
+    tags:
     - Retina
 
   - id: http://dx.doi.org/10.1016/j.neuron.2016.05.006
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627316301660-gr8.jpg
-  tags:
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627316301660-gr8.jpg
+    tags:
     - Retina
     - Natural scenes
     - Electrophysiology
