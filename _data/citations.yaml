@@ -1,60 +1,224 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.7554/eLife.82587
+  title: Visual and motor signatures of locomotion dynamically shape a population
+    code for feature detection in Drosophila
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Maxwell H Turner
+  - Avery Krieger
+  - Michelle M Pang
+  - Thomas R Clandinin
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  date: '2022-10-27'
+  link: https://doi.org/gq48b4
+  image: https://iiif.elifesciences.org/lax:82587%2Felife-82587-fig3-v3.tif/full/1500,/0/default.jpg
+  repo: https://github.com/mhturner/glom_pop
+  tags:
+  - Drosophila
+  - imaging
+  - natural scenes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.38841
+  title: Receptive field center-surround interactions mediate context-dependent spatial
+    contrast encoding in the retina
+  authors:
+  - Maxwell H Turner
+  - Gregory W Schwartz
+  - Fred Rieke
+  publisher: eLife
+  date: '2018-09-06'
+  link: https://doi.org/gpb387
+  image: https://iiif.elifesciences.org/lax/38841%2Felife-38841-fig6-v2.tif/full/1500,/0/default.jpg
+  repo: https://github.com/mhturner/CenterSurroundInteractions
+  tags:
+  - retina
+  - electrophysiology
+  - natural scenes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.70611
+  title: Adaptation in cone photoreceptors contributes to an unexpected insensitivity
+    of primate On parasol retinal ganglion cells to spatial structure in natural images
+  authors:
+  - Zhou Yu
+  - Maxwell H Turner
+  - Jacob Baudin
+  - Fred Rieke
+  publisher: eLife
+  date: '2022-03-14'
+  link: https://doi.org/gsgjkk
+  image: https://iiif.elifesciences.org/lax/70611%2Felife-70611-fig8-v2.tif/full/1500,/0/default.jpg
+  tags:
+  - retina
+  - electrophysiology
+  - natural scenes
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34582814
+  title: 'Neuroscience: Convergence of biological and artificial networks.'
+  authors:
+  - Maxwell H Turner
+  - Thomas R Clandinin
+  publisher: 'Current biology : CB'
+  date: '2021-09-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34582814
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221010411-gr1.jpg
+  tags:
+  - Drosophila
+  - review
+  - AI
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33770490
+  title: The connectome predicts resting-state functional connectivity across the
+    Drosophila brain.
+  authors:
+  - Maxwell H Turner
+  - Kevin Mann
+  - Thomas R Clandinin
+  publisher: 'Current biology : CB'
+  date: '2021-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33770490
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221003432-gr2.jpg
+  tags:
+  - Drosophila
+  - connectome
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41593-018-0284-0
+  title: Stimulus- and goal-oriented frameworks for understanding natural vision
+  authors:
+  - Maxwell H. Turner
+  - Luis Gonzalo Sanchez Giraldo
+  - Odelia Schwartz
+  - Fred Rieke
+  publisher: Nature Neuroscience
+  date: '2018-12-10'
+  link: https://doi.org/gfrhgh
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-018-0284-0/MediaObjects/41593_2018_284_Fig5_HTML.png?as=webp
+  tags:
+  - review
+  - natural scenes
+  - AI
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1803490115
+  title: GABA release selectively regulates synapse development at distinct inputs
+    on direction-selective retinal ganglion cells
+  authors:
+  - Adam Bleckert
+  - Chi Zhang
+  - Maxwell H. Turner
+  - David Koren
+  - David M. Berson
+  - Silvia J. H. Park
+  - Jonathan B. Demb
+  - Fred Rieke
+  - Wei Wei
+  - Rachel O. Wong
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-12-03'
+  link: https://doi.org/ggrsnf
+  tags:
+  - retina
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuron.2016.05.006
+  title: Synaptic Rectification Controls Nonlinear Spatial Integration of Natural
+    Visual Inputs
+  authors:
+  - "Maxwell\_H. Turner"
+  - Fred Rieke
+  publisher: Neuron
+  date: '2016-06-01'
+  link: https://doi.org/f8r4ff
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627316301660-gr8.jpg
+  tags:
+  - retina
+  - natural scenes
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuron.2015.11.019
+  title: Direction-Selective Circuits Shape Noise to Ensure a Precise Population Code
+  authors:
+  - Joel Zylberberg
+  - Jon Cafaro
+  - "Maxwell\_H. Turner"
+  - Eric Shea-Brown
+  - Fred Rieke
+  publisher: Neuron
+  date: '2016-01-01'
+  link: https://doi.org/f8g28m
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010259-gr1.jpg
+  tags:
+  - retina
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13064-015-0042-x
+  title: Type I intrinsically photosensitive retinal ganglion cells of early post-natal
+    development correspond to the M4 subtype
+  authors:
+  - Timothy J. Sexton
+  - Adam Bleckert
+  - Maxwell H. Turner
+  - Russell N. Van Gelder
+  publisher: Neural Development
+  date: '2015-06-21'
+  link: https://doi.org/f7rftc
+  tags:
+  - retina
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nn.3851
+  title: Nonlinear dendritic integration of electrical and chemical synaptic inputs
+    drives fine-scale correlations
+  authors:
+  - Stuart Trenholm
+  - Amanda J McLaughlin
+  - David J Schwab
+  - Maxwell H Turner
+  - Robert G Smith
+  - Fred Rieke
+  - Gautam B Awatramani
+  publisher: Nature Neuroscience
+  date: '2014-10-26'
+  link: https://doi.org/f6qtfx
+  tags:
+  - retina
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cub.2013.12.020
+  title: Visual Space Is Represented by Nonmatching Topographies of Distinct Mouse
+    Retinal Ganglion Cell Types
+  authors:
+  - Adam Bleckert
+  - "Gregory\_W. Schwartz"
+  - "Maxwell\_H. Turner"
+  - Fred Rieke
+  - "Rachel\_O.L. Wong"
+  publisher: Current Biology
+  date: '2014-02-01'
+  link: https://doi.org/f5rpv7
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982213015790-gr4.jpg
+  tags:
+  - retina
+  - electrophysiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1113/jphysiol.2011.225896
+  title: A method for detecting molecular transport within the cerebral ventricles
+    of live zebrafish (<i>Danio rerio</i>) larvae
+  authors:
+  - Maxwell H. Turner
+  - Jeremy F.P. Ullmann
+  - Alan R. Kay
+  publisher: The Journal of Physiology
+  date: '2012-05-15'
+  link: https://doi.org/f3x7jv
   plugin: sources.py
   file: sources.yaml

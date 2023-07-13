@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research projects
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -23,7 +23,7 @@ The anatomical structure of neural circuits can strongly constrain the function 
 
 ### Highlighted publications
 
-{% include citation.html lookup="The connectome predicts resting state functional connectivity across the Drosophila brain" style="rich" %}
+{% include citation.html lookup="The connectome predicts resting-state functional connectivity across the Drosophila brain" style="rich" %}
 
 {% include section.html %}
 
@@ -36,14 +36,6 @@ Most of what we know about how the visual system works comes from studies using 
 
 {% include citation.html lookup="Receptive field center-surround interactions mediate context-dependent spatial contrast encoding in the retina" style="rich" %}
 
-{% include citation.html lookup="Synaptic rectification controls nonlinear spatial integration of natural visual inputs" style="rich" %}
+{% include citation.html lookup="10.1016/j.neuron.2016.05.006" style="rich" %}
 
 {% include section.html %}
-
-## All publications
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
