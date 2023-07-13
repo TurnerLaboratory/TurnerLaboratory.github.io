@@ -3,52 +3,76 @@
   repo: https://github.com/mhturner/glom_pop
   tags:
     - Drosophila
-    - Imaging
-    - Natural scenes
+    - imaging
+    - natural scenes
     
 - id: https://doi.org/10.7554/eLife.38841
   image: https://iiif.elifesciences.org/lax/38841%2Felife-38841-fig6-v2.tif/full/1500,/0/default.jpg
   repo: https://github.com/mhturner/CenterSurroundInteractions
   tags:
-    - Retina
-    - Electrophysiology
-    - Natural scenes
+    - retina
+    - electrophysiology
+    - natural scenes
 
 - id: https://doi.org/10.7554/eLife.70611
   image: https://iiif.elifesciences.org/lax/70611%2Felife-70611-fig8-v2.tif/full/1500,/0/default.jpg
   tags:
-    - Retina
-    - Electrophysiology
-    - Natural scenes
+    - retina
+    - electrophysiology
+    - natural scenes
 
 - id: pubmed:34582814
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221010411-gr1.jpg
   tags:
     - Drosophila
-    - Review
+    - review
     - AI
 
 - id: pubmed:33770490
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221003432-gr2.jpg
   tags:
     - Drosophila
-    - Connectome
+    - connectome
 
-    
 - id: https://doi.org/10.1038/s41593-018-0284-0
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-018-0284-0/MediaObjects/41593_2018_284_Fig5_HTML.png?as=webp
   tags:
-    - Review
-    - Natural scenes
+    - review
+    - natural scenes
     - AI
 
-  - id: https://doi.org/10.1073/pnas.1803490115
-    tags:
-    - Retina
+- id: https://doi.org/10.1073/pnas.1803490115
+  tags:
+    - retina
 
-  - id: http://dx.doi.org/10.1016/j.neuron.2016.05.006
-    image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627316301660-gr8.jpg
-    tags:
-    - Retina
-    - Natural scenes
-    - Electrophysiology
+- id: http://dx.doi.org/10.1016/j.neuron.2016.05.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627316301660-gr8.jpg
+  tags:
+    - retina
+    - natural scenes
+    - electrophysiology
+
+
+- id: http://dx.doi.org/10.1016/j.neuron.2015.11.019
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010259-gr1.jpg
+  tags:
+    - retina
+    - electrophysiology
+
+- id: doi:10.1186/s13064-015-0042-x
+  tags:
+    - retina
+    - electrophysiology
+
+- id: doi:10.1038/nn.3851
+  tags:
+    - retina
+    - electrophysiology
+
+- id: http://dx.doi.org/10.1016/j.cub.2013.12.020
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982213015790-gr4.jpg
+  tags:
+    - retina
+    - electrophysiology
+
+- id: doi:10.1113/jphysiol.2011.225896
