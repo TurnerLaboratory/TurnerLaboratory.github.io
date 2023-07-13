@@ -12,6 +12,11 @@
   date: '2022-10-27'
   link: https://doi.org/10.7554/eLife.82587
   image: https://iiif.elifesciences.org/lax:82587%2Felife-82587-fig3-v3.tif/full/1500,/0/default.jpg
+  repo: https://github.com/mhturner/glom_pop
+  tags:
+  - Drosophila
+  - Imaging
+  - Natural scenes
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.7554/eLife.38841
@@ -25,5 +30,70 @@
   date: '2018-09-06'
   link: https://doi.org/10.7554/eLife.38841
   image: https://iiif.elifesciences.org/lax/38841%2Felife-38841-fig6-v2.tif/full/1500,/0/default.jpg
+  repo: https://github.com/mhturner/CenterSurroundInteractions
+  tags:
+  - Retina
+  - Electrophysiology
+  - Natural scenes
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.7554/eLife.70611
+  title: Adaptation in cone photoreceptors contributes to an unexpected insensitivity
+    of primate On parasol retinal ganglion cells to spatial structure in natural images
+  authors:
+  - Zhou Yu
+  - Maxwell H Turner
+  - Jacob Baudin
+  - Fred Rieke
+  publisher: eLife
+  date: '2022-03-14'
+  link: https://doi.org/10.7554/eLife.70611
+  image: https://iiif.elifesciences.org/lax/70611%2Felife-70611-fig8-v2.tif/full/1500,/0/default.jpg
+  tags:
+  - Retina
+  - Electrophysiology
+  - Natural scenes
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.cub.2021.07.051
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.cub.2021.07.051
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221010411-gr1.jpg
+  tags:
+  - Drosophila
+  - Review
+  - AI
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.cub.2021.03.004
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.cub.2021.03.004
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221003432-gr2.jpg
+  tags:
+  - Drosophila
+  - Connectome
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1038/s41593-018-0284-0
+  title: Stimulus- and goal-oriented frameworks for understanding natural vision
+  authors:
+  - Maxwell H. Turner
+  - Luis Gonzalo Sanchez Giraldo
+  - Odelia Schwartz
+  - Fred Rieke
+  publisher: Nature Neuroscience
+  date: '2019-01-01'
+  link: https://www.nature.com/articles/s41593-018-0284-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-018-0284-0/MediaObjects/41593_2018_284_Fig5_HTML.png?as=webp
+  tags:
+  - Review
+  - Natural scenes
+  - AI
   plugin: sources.py
   file: sources.yaml
