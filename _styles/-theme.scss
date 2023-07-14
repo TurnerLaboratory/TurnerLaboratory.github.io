@@ -3,21 +3,21 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #84a98c;
-  --secondary: #cad2c5;
+  --primary: #333333;
+  --secondary: #ec9a29;
   --text: #000000;
-  --background: #2f3e46;
-  --background-alt: #354f52;
+  --background: #c5ddf0;
+  --background-alt: #a3cef1;
   --light-gray: #e0e0e0;
   --gray: #808080;
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #0ea5e9;
-  --secondary: #075985;
+  --primary: #333333;
+  --secondary: #ec9a29;
   --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
+  --background: #6096ba;
+  --background-alt: #447199;
   --light-gray: #404040;
   --gray: #808080;
   --overlay: #ffffff10;
