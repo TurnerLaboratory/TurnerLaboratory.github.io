@@ -1,0 +1,38 @@
+- title: Stimpack
+  subtitle: Visual stimulus generator
+  group: software
+  image: images/stimpack_logo.png
+  link: https://github.com/ClandininLab/stimpack
+  description: Fast, reliable, and flexible stimulus rendering and experimental control for visual neuroscience experiments.
+  repo: ClandininLab/stimpack
+
+- title: Visanalysis
+  subtitle: Imaging analysis environment
+  group: software
+  image: images/visanalysis_gui.png
+  link: https://github.com/ClandininLab/visanalysis
+  description: Analysis pipeline and common imaging analysis tools for Stimpack data.
+  repo: ClandininLab/visanalysis
+
+- title: Whole brain imaging
+  subtitle: Drosophila resting state
+  group: data
+  image: 
+  link: https://figshare.com/articles/dataset/Drosophila_central_brain_connectivity/13349282
+  description: Whole-brain calcium imaging data of flies in a “resting state”, showing functional correlations among brain regions. 
+  repo: mhturner/SC-FC
+  
+- title: GlomPop
+  subtitle: Population imaging of visual responses in optic glomeruli
+  group: data
+  # image: 
+  link: https://doi.org/10.5061/dryad.h44j0zpp8
+  description: Population imaging from many Visual Projection Neuron classes in Drosophila.
+  repo: mhturner/glom_pop
+
+- title: syt1-GCaMP6f
+  subtitle: Presynaptically localized GCaMP
+  group: reagents
+  image: images/syt1GCaMP6f.png
+  link: https://www.addgene.org/190896/
+  description: Calcium sensor GCaMP6f fused to synaptotagmin 1, which is a presynaptic active zone protein.
