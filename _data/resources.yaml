@@ -1,35 +1,33 @@
 - title: Stimpack
   subtitle: Visual stimulus generator
   group: software
-  image: images/photo.jpg
+  image: images/stimpack_logo.png
   link: https://github.com/ClandininLab/stimpack
   description: Fast, reliable, and flexible stimulus rendering and experimental control for visual neuroscience experiments.
   repo: ClandininLab/stimpack
 
 - title: Visanalysis
   subtitle: Imaging analysis environment
-  group: featured
-  image: images/photo.jpg
+  group: software
+  image: images/visanalysis_gui.png
   link: https://github.com/ClandininLab/visanalysis
   description: Analysis pipeline and common imaging analysis tools for Stimpack data, which allows biologists to quickly analyze their imaging data without designing analysis pipelines from scratch, using just a little bit of Python knowledge.
   repo: ClandininLab/visanalysis
 
+- name: Drosophila whole-brain structural and functional connectivity
+  group: data
+  image: 
+  link: https://figshare.com/articles/dataset/Drosophila_central_brain_connectivity/13349282
+  description: Whole-brain calcium imaging data of flies in a “resting state”, showing functional correlations among brain regions. 
 
+- name: Population imaging of visual responses in optic glomeruli
+  group: data
+  image: 
+  link: https://doi.org/10.5061/dryad.h44j0zpp8
+  description: Pan-glomerulus imaging data of flies presented with various visual stimuli, including panels of synthetic stimuli as well as more naturalistic visual stimuli associated with natural fly walking behavior.
 
-# - name: Drosophila whole-brain structural and functional connectivity
-#   group: data
-#   image: 
-#   link: https://figshare.com/articles/dataset/Drosophila_central_brain_connectivity/13349282
-#   description: Whole-brain calcium imaging data of flies in a “resting state”, showing functional correlations among brain regions. 
-
-# - name: Population imaging of visual responses in optic glomeruli
-#   group: data
-#   image: 
-#   link: https://doi.org/10.5061/dryad.h44j0zpp8
-#   description: Pan-glomerulus imaging data of flies presented with various visual stimuli, including panels of synthetic stimuli as well as more naturalistic visual stimuli associated with natural fly walking behavior.
-
-# - name: Presynaptically localized GCaMP: syt1-GCaMP6f
-#   group: reagents
-#   image: 
-#   link: https://www.addgene.org/190896/
-#   description: This is a version of the calcium sensor GCaMP6f fused to synaptotagmin 1, which is a presynaptic active zone protein. syt1-GCaMP6f is localized in presynaptic terminals.
+- name: Presynaptically localized GCaMP: syt1-GCaMP6f
+  group: reagents
+  image: 
+  link: https://www.addgene.org/190896/
+  description: This is a version of the calcium sensor GCaMP6f fused to synaptotagmin 1, which is a presynaptic active zone protein. syt1-GCaMP6f is localized in presynaptic terminals.
