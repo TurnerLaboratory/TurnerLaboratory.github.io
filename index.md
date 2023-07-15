@@ -12,7 +12,7 @@ We use the fruit fly, _Drosophila melanogaster_, as a model to understand natura
 
 {% capture text %}
 
-We are currently looking for scientists at all levels to work with us to understand how the brain processes visual information in naturalistic contexts. Projects in the lab use include cool techniques like _in vivo_ two-photon imaging, analysis of big datasets, animal behavior, and more!
+We are currently looking for scientists at all levels to work with us to understand how the brain processes visual information in naturalistic contexts. Techniques in the lab include _in vivo_ two-photon imaging, analysis of big datasets, animal behavior, and more!
 
 The Turner lab strives to be a welcoming and supportive environment for all of its members. If you want to support this mission, and you're interested in these scientific questions and techniques, please reach out to Max!
 
