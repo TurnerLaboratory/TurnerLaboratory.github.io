@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is located in room 342 of the Biology Building at the University at Albany.
 
 {%
   include button.html
@@ -25,14 +23,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}
+{% endcomment %}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://goo.gl/maps/w2qYTpn1wzTePrxc8)"
 %}
-
-{% endcomment %}
 
 {% include section.html %}
 
