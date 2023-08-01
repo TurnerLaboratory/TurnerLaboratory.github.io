@@ -23,7 +23,6 @@ Our lab is located in room 342 of the Biology Building at the University at Alba
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}
-{% endcomment %}
 
 {%
   include button.html
@@ -31,6 +30,9 @@ Our lab is located in room 342 of the Biology Building at the University at Alba
   tooltip="Our location on Google Maps for easy navigation"
   link="[https://www.google.com/maps](https://goo.gl/maps/w2qYTpn1wzTePrxc8)"
 %}
+
+{% endcomment %}
+
 
 {% include section.html %}
 
