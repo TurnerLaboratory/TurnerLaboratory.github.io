@@ -15,17 +15,17 @@
   repo: ClandininLab/visanalysis
 
 - title: Whole brain imaging
-  subtitle: Drosophila resting state
+  # subtitle: 
   group: data
-  image: 
+  image: images/wholebrain_fc.png
   link: https://figshare.com/articles/dataset/Drosophila_central_brain_connectivity/13349282
   description: Whole-brain calcium imaging data of flies in a “resting state”, showing functional correlations among brain regions. 
   repo: mhturner/SC-FC
   
-- title: GlomPop
-  subtitle: Population imaging of visual responses in optic glomeruli
+- title: Optic glomerulus responses
+  # subtitle: 
   group: data
-  # image: 
+  image: images/glom_pop_responses.png
   link: https://doi.org/10.5061/dryad.h44j0zpp8
   description: Population imaging from many Visual Projection Neuron classes in Drosophila.
   repo: mhturner/glom_pop
