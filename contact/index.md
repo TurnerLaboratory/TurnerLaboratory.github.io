@@ -9,6 +9,8 @@ nav:
 
 Our lab is located in room 342 of the Biology Building at the University at Albany.
 
+We are always interested in welcoming new members to our lab. If you would like to learn more, or hear about the opportunties in the lab, please reach out to Max directly!
+
 {%
   include button.html
   type="email"
