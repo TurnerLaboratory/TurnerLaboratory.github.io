@@ -3,6 +3,7 @@ name: Max Turner
 image: images/MHT_headshot_downsample.jpg
 role: pi
 links:
+  email: maxwellholteturner@gmail.com
   orcid: 0000-0002-4164-9995
   github: mhturner
   twitter: MaxwellHTurner
