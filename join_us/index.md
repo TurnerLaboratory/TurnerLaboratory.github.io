@@ -1,7 +1,7 @@
 ---
 title: Join us!
 nav:
-  order: 6
+  order: 5
   tooltip: Open positions in the lab
 ---
 
