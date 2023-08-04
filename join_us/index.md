@@ -7,6 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Join the Turner lab!
 
+We study the neural circuits and computations that allow the brain to make sense of the complex and dynamic visual inputs encountered in the real world. We combine techniques from neuroscience, data science, genetics, and animal behavior to understand natural vision. 
 The Turner lab strives to be a welcoming and supportive environment for all of its members. If you want to support this mission, and you're interested in these scientific questions and techniques, please reach out to Max!
 
 {%
