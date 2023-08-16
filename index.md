@@ -14,7 +14,7 @@ We use the fruit fly, _Drosophila melanogaster_, as a model to understand natura
 
 The Turner lab will open its doors in January, 2024!
 
-We are looking for scientists at all levels to join us to understand how the brain processes visual information in naturalistic contexts. Techniques in the lab include _in vivo_ two-photon imaging, analysis of big datasets, animal behavior, and more! We will consider applicants from a wide range of backgrounds, including biology, neuroscience, computer science, engineering, and more. Please reach out to talk about whether you could be a good fit for the lab!
+We are looking for scientists at all levels to join us to understand how the brain processes visual information in naturalistic contexts. Techniques in the lab include _in vivo_ two-photon imaging, analysis of big datasets, animal behavior, and more! We will consider applicants from a wide range of backgrounds, including biology, neuroscience, computer science, engineering, and more. If these questions and techniques interest you, and you'd like to discuss working in the lab, please reach out to to Max!
 
 
 {%
