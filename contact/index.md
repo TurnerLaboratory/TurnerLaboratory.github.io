@@ -14,8 +14,8 @@ We are always interested in welcoming new members to our lab. If you would like 
 {%
   include button.html
   type="email"
-  text="maxwellholteturner@gmail.com"
-  link="maxwellholteturner@gmail.com"
+  text="mhturner@albany.edu"
+  link="mhturner@albany.edu"
 %}
 
 {% comment %} 
