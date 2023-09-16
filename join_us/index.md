@@ -13,8 +13,8 @@ The Turner lab strives to be a welcoming and supportive environment for all of i
 {%
   include button.html
   type="email"
-  text="maxwellholteturner@gmail.com"
-  link="maxwellholteturner@gmail.com"
+  text="mhturner@albany.edu"
+  link="mhturner@albany.edu"
 %}
 
 {% comment %} 
