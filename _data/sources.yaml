@@ -21,14 +21,14 @@
     - electrophysiology
     - natural scenes
 
-- id: pubmed:34582814
+- id: doi:10.1016/j.cub.2021.07.051
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221010411-gr1.jpg
   tags:
     - Drosophila
     - review
     - AI
 
-- id: pubmed:33770490
+- id: doi:10.1016/j.cub.2021.03.004 
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982221003432-gr2.jpg
   tags:
     - Drosophila
