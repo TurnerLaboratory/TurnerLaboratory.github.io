@@ -18,14 +18,14 @@ We are always interested in welcoming new members to our lab. If you would like 
   link="mhturner@albany.edu"
 %}
 
+{% comment %} 
+
 {%
   include button.html
   type="phone"
   text="(518) 442-4208"
   link="+1-518-442-4208"
 %}
-
-{% comment %} 
 
 {%
   include button.html
