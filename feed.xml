@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-03-07T02:24:58+00:00</updated><id>/feed.xml</id><title type="html">Turner Lab</title><entry><title type="html">First few months of the lab</title><link href="/2024/03/06/first-months.html" rel="alternate" type="text/html" title="First few months of the lab" /><published>2024-03-06T00:00:00+00:00</published><updated>2024-03-07T02:24:25+00:00</updated><id>/2024/03/06/first-months</id><content type="html" xml:base="/2024/03/06/first-months.html"><![CDATA[<!-- section break -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-03-07T02:43:30+00:00</updated><id>/feed.xml</id><title type="html">Turner Lab</title><entry><title type="html">First few months of the lab</title><link href="/2024/03/06/first-months.html" rel="alternate" type="text/html" title="First few months of the lab" /><published>2024-03-06T00:00:00+00:00</published><updated>2024-03-07T02:42:41+00:00</updated><id>/2024/03/06/first-months</id><content type="html" xml:base="/2024/03/06/first-months.html"><![CDATA[<p>The lab opened in January of 2024. We have been focusing on building the behavior rig to measure locomotor responses while presenting visual stimuli.</p>
+
+<p>The rig has come together nicely, thanks to wonderful existing tools and resources like <a href="https://github.com/ClandininLab/stimpack">stimpack</a>, <a href="https://github.com/jbmelander/jackfish">jackfish</a>, Michael Reiser’s <a href="https://reiserlab.github.io/Component-Designs/">fantastic open source behavior rig resources</a>, Damon Clark’s flexible yet unfussy <a href="https://doi.org/10.1016%2Fj.jneumeth.2019.05.005">panoramic visual display design</a>, as well as amazing support from folks at UAlbany, from our great CAS machinist to my colleague Greg Lnenicka who gifted the lab some gently used equipment.</p>
+
+<p>Aside from that we’re learning the quirks of the building, which has “character” but “good bones,” and getting our money’s worth with the label maker.</p>
+
+<!-- section break -->
 <!--
   background: ;
   dark: ;
@@ -39,21 +45,6 @@
   
 </figure>
 
-<figure class="figure">
-  <a class="figure-image" aria-label="Rotation student Carlsy pins his first fly - and collects the first walking data in the Turner lab!">
-    <img src="/images/20240226.jpeg" style="
-        width: auto;
-        max-height: unset;
-      " alt="Rotation student Carlsy pins his first fly - and collects the first walking data in the Turner lab!" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-  </a>
-  
-    <figcaption class="figure-caption">
-      Rotation student Carlsy pins his first fly - and collects the first walking data in the Turner lab!
-
-    </figcaption>
-  
-</figure>
-
 </div>
   
     
@@ -88,6 +79,21 @@
   
 </figure>
 
+<figure class="figure">
+  <a class="figure-image" aria-label="Rotation student Carlsy pins his first fly - and collects the first walking data in the Turner lab!">
+    <img src="/images/20240226.jpeg" style="
+        width: auto;
+        max-height: unset;
+      " alt="Rotation student Carlsy pins his first fly - and collects the first walking data in the Turner lab!" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Rotation student Carlsy pins his first fly - and collects the first walking data in the Turner lab!
+
+    </figcaption>
+  
+</figure>
+
 </div>
   
-</div>]]></content><author><name>max-turner</name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+</div>]]></content><author><name>max-turner</name></author><summary type="html"><![CDATA[The lab opened in January of 2024. We have been focusing on building the behavior rig to measure locomotor responses while presenting visual stimuli.]]></summary></entry></feed>
