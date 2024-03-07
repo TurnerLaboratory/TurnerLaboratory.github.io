@@ -31,7 +31,7 @@ We are always interested in welcoming new members to our lab. If you would like 
 
 {%
   include figure.html
-  image="images/podium.jpg"
+  image="images/podium.JPG"
   caption="UAlbany's Academic Podium - home of the Biology building"
 %}
 
@@ -41,7 +41,7 @@ We are always interested in welcoming new members to our lab. If you would like 
 
 {%
   include figure.html
-  image="images/20240304.jpg"
+  image="images/20240304.jpeg"
   caption="Our lab"
 %}
 
