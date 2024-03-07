@@ -25,26 +25,14 @@ We are always interested in welcoming new members to our lab. If you would like 
   link="+1-518-442-4208"
 %}
 
-{% comment %}
-
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://goo.gl/maps/w2qYTpn1wzTePrxc8)"
-%}
-
-{% endcomment %}
-
-
 {% include section.html %}
 
 {% capture col1 %}
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Biology Building"
+  image="images/podium.jpg"
+  caption="UAlbany's Academic Podium - home of the Biology building"
 %}
 
 {% endcapture %}
@@ -53,7 +41,7 @@ We are always interested in welcoming new members to our lab. If you would like 
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/20240304.jpg"
   caption="Our lab"
 %}
 
