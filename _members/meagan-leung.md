@@ -1,6 +1,6 @@
 ---
 name: Meagan Leung
-image: images/MLeung.jpg
+image: images/MLeung.jpeg
 role: undergrad
 links:
 ---
