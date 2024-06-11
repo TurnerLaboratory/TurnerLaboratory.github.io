@@ -1,7 +1,7 @@
 ---
 name: Chloe Mickels
 image: images/CMickels.jpg
-role: tech
+role: mgr
 links:
 ---
 
