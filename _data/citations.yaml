@@ -17,7 +17,6 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-07451-8/MediaObjects/41586_2024_7451_Fig4_HTML.png?as=webp
   tags:
   - Drosophila
-  - imaging
   - AI
   plugin: sources.py
   file: sources.yaml
