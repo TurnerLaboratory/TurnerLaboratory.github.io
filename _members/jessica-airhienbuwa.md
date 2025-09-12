@@ -1,7 +1,8 @@
 ---
 name: Jessica Airhienbuwa
 image: images/JAirhienbuwa.jpg
-role: tech, alumni
+description: (2024-2025) Undergraduate and technician
+role: tech, alum
 links:
 ---
 
