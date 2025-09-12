@@ -36,3 +36,10 @@
   image: images/syt1GCaMP6f.png
   link: https://www.addgene.org/190896/
   description: Calcium sensor GCaMP6f fused to synaptotagmin 1, which is a presynaptic active zone protein.
+
+- title: in vivo dissection tutorial
+  subtitle: in vivo dissection tutorial
+  group: protocols
+  image: images/dissection_thumb.jpg
+  link: https://www.youtube.com/watch?v=wakS-DuRg9M
+  description: Tutorial video for the in vivo 2-photon imaging prep, demonstrated by Chloe Mickels

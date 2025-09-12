@@ -1,7 +1,7 @@
 ---
 name: Jessica Airhienbuwa
 image: images/JAirhienbuwa.jpg
-role: tech
+role: tech, alumni
 links:
 ---
 
