@@ -1,3 +1,9 @@
+- id: doi:10.1016/j.tins.2025.10.012
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0166223625002255-gr1.jpg
+  tags:
+    - Drosophila
+    - review
+
 - id: doi:10.1038/s41586-024-07451-8
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-07451-8/MediaObjects/41586_2024_7451_Fig4_HTML.png?as=webp
   tags:
