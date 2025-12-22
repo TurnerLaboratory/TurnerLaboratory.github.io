@@ -2,7 +2,7 @@
 name: Jessica Airhienbuwa
 image: images/JAirhienbuwa.jpg
 description: (2024-2025) Undergraduate and technician
-role: tech, alum
+role: alum
 links:
 ---
 
