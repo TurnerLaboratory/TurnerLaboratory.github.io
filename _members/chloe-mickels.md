@@ -5,4 +5,4 @@ role: mgr
 links:
 ---
 
-I am a recent graduate from Skidmore College with a degree in neuroscience. My undergraduate research experience focused on tracking the propagation of neurodegenerative proteins between cerebellar cancer cells. I bring a strong neurobiological background to the lab, and am excited to take on the challenge of working with a new model organism. Outside of research, I enjoy spending time with my dog, stargazing, and adding to my ever-growing collection of plants.
+After graduating from Skidmore College with a B.A. in Neuroscience and a passion for research, Chloe joined the lab with an interest in examining how the role of specific cells and circuits can be linked to broader biological computations, such as vision. Specifically, her project focuses on distinguishing the contributions of a class of feedback neurons to visual processing in Drosophila. Outside of the lab, she enjoys spending time with her dog, stargazing, and adding to her ever-growing collection of plants.
