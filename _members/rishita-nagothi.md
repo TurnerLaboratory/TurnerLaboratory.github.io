@@ -1,6 +1,6 @@
 ---
 name: Rishita Nagothi
-image: images/RNagothi.jpeg
+image: images/RNagothi.jpg
 role: undergrad
 links:
 ---
