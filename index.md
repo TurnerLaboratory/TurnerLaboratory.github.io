@@ -10,6 +10,10 @@ We use the fruit fly, _Drosophila melanogaster_, as a model to understand vision
 
 {% include section.html %}
 
+#### Listen to Max talk about the lab's work on an episode of The Short Version:
+
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a9dd60d7-29a8-4b3f-86e4-7ae94fd7873f?dark=true"></iframe>
+
 <!-- {% capture text %}
 
 We are looking for scientists at all levels to join us to understand how the brain processes visual information in naturalistic contexts. Techniques in the lab include _in vivo_ two-photon imaging, analysis of big datasets, animal behavior, and more! We will consider applicants from a wide range of backgrounds, including biology, neuroscience, computer science, engineering, and more. If these questions and techniques interest you, and you'd like to discuss working in the lab, please reach out to to Max!
