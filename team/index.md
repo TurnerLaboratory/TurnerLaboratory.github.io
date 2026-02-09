@@ -12,7 +12,8 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: mgr" %}
 {% include list.html data="members" component="portrait" filters="role: tech" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!.*\b(pi|mgr|phd|tech|alum)\b).*$" %}
+{% include list.html data="members" component="portrait" filters="role: ms" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!.*\b(pi|mgr|phd|ms|tech|alum)\b).*$" %}
 
 # {% include icon.html icon="fa-solid fa-hand-peace" %}Alumni
 {% include list.html data="members" component="portrait" filters="role: alum" style="small"%}

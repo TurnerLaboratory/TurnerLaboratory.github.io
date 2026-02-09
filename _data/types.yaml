@@ -18,6 +18,10 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+ms:
+  icon: fa-solid fa-graduation-cap
+  description: MS Student
+
 tech:
   icon: fa-solid fa-flask
   description: Research Technician
