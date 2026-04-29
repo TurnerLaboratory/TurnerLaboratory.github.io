@@ -1,7 +1,8 @@
 ---
 name: Emily Bayram
 image: images/EBayram.jpg
-role: phd
+description: (2024-2026) Graduate student
+role: alum
 links:
 ---
 

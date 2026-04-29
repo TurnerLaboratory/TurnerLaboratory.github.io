@@ -5,7 +5,7 @@ nav:
   tooltip: Research projects in the lab
 ---
 
-# Research
+# {% include icon.html icon="fa-solid fa-flask" %}Research
 
 ## Visual processing in naturalistic stimulus and behavioral contexts
 The kinds of visual stimuli that are often shown in a neuroscience lab are very different than visual stimuli out in the real world. For one thing, the structure of the world (e.g. the sorts of contrasts, colors and orientations that exist in the real world) may be very different than what is seen in typical visual neuroscience stimuli. For another, real visual input is in almost **constant motion**, due in large part to the motion of the animal itself. **How do brains deal with the complex and dynamic conditions that characterize natural vision?** We use the fruit fly, _Drosophila melanogaster_, as a model to ask this question. Working in flies allows us to make genetically targeted recordings and perturbations for virtually any neuron of interest, and because we have the fly connectome, we can know every neuron's inputs and outputs. This allows us to study neural computation with spectacular precision at the circuit, cellular, and synaptic level. 

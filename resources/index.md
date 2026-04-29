@@ -5,6 +5,8 @@ nav:
   tooltip: Data, code, and reagents
 ---
 
+# {% include icon.html icon="fa-solid fa-toolbox" %}Resources
+
 ## Software
 
 {% include list.html component="card" data="resources" filters="group: software" style="small" %}
