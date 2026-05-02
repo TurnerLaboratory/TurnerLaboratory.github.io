@@ -16,9 +16,8 @@ Meagan also submitted her honors thesis this semseter AND shewon the Glenn L. Bu
 {% endcapture %}
 
 {% capture col2 %}
-
-{% include figure.html image="images/Meagan_talk.jpeg" caption="Meagan starting her talk at the Undergraduate Research Symposium" %}
 {% include figure.html image="images/Meagan_bumpus.jpg" caption="Meagan won the Glenn Bumpus Award for Excellence in Undergrad Research!" %}
+{% include figure.html image="images/Meagan_talk.jpeg" caption="Meagan starting her talk at the Undergraduate Research Symposium" %}
 
 {% endcapture %}
 
