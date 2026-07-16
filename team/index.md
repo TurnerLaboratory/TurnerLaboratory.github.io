@@ -4,6 +4,10 @@ nav:
   order: 3
   tooltip: Lab members
 ---
+# The Lab
+
+
+{% include figure.html image="images/lab_bouldering.jpeg" caption="Lab photo July 2026 - bouldering!" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Lab members
 
