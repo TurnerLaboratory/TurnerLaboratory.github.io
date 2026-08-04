@@ -38,4 +38,34 @@
   --shadow: 0 0 5px 0 var(--overlay);
 }
 
+/* =========================
+   Alumni list
+   ========================= */
+.alumni-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.alumni-list li {
+  display: flex;
+  gap: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--light-gray);
+}
+
+.alumni-name {
+  font-weight: var(--semi-bold);
+  min-width: 220px;
+}
+
+.alumni-list li:last-child {
+  border-bottom: none;
+}
+
+.alumni-now {
+  color: var(--gray);
+  font-style: italic;
+}
+
 /*# sourceMappingURL=-theme.css.map */
