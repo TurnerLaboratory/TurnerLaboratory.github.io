@@ -1,7 +1,12 @@
 ---
 name: Rishita Nagothi
 image: images/RNagothi.jpg
-role: undergrad
+description: Undergraduate student
+
+role: alum
+start_date: 2025-08-01
+alumni_date: 2026-05-15
+
 links:
 ---
 

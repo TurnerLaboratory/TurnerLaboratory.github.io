@@ -1,7 +1,13 @@
 ---
 name: Chloe Mickels
 image: images/CMickels.jpg
-role: mgr
+description: Technician & lab manager
+
+role: alum
+start_date: 2024-06-01
+alumni_date: 2026-07-15
+current_position: PhD student, Max Planck Florida Institute for Neuroscience
+
 links:
 ---
 

@@ -1,0 +1,31 @@
+{% assign alumni = site.members
+  | where: "role", "alum"
+  | sort: "alumni_date"
+  | reverse %}
+
+<ul class="alumni-list">
+{% for member in alumni %}
+  <li>
+    <strong>{{ member.name }}</strong>
+    —
+    {% assign start_year = member.start_date | date: "%Y" %}
+    {% assign end_year = member.alumni_date | date: "%Y" %}
+
+    {% if start_year == end_year %}
+      {{ start_year }}
+    {% else %}
+      {{ start_year }}-{{ end_year }}
+    {% endif %}
+    ·
+    {{ member.description }}
+    {% if member.current_position %}
+      <span class="alumni-now">
+        · Now: {{ member.current_position }}
+      </span>
+    {% endif %}
+  </li>
+
+
+  
+{% endfor %}
+</ul>

@@ -1,8 +1,13 @@
 ---
 name: Emily Bayram
 image: images/EBayram.jpg
-description: (2024-2026) Graduate student
+description: Graduate student
+
 role: alum
+start_date: 2024-04-01
+alumni_date: 2026-05-15
+current_position: PhD student, University at Albany
+
 links:
 ---
 

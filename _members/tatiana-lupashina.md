@@ -1,7 +1,7 @@
 ---
 name: Tatiana Lupashina
 image: images/TLupashina.png
-role: tech
+role: mgr
 links:
 ---
 

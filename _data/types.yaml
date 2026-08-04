@@ -39,7 +39,7 @@ mascot:
   description: Mascot
 
 alum:
-  icon: fa-solid fa-calendar
+  icon:
   description: Alumnus
 
 # general

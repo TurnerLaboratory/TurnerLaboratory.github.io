@@ -1,7 +1,13 @@
 ---
 name: Meagan Leung
 image: images/MLeung.jpeg
-role: undergrad
+description: Undergraduate student
+
+role: alum
+start_date: 2024-01-01
+alumni_date: 2026-05-15
+current_position: MS student, University at Albany
+
 links:
 ---
 

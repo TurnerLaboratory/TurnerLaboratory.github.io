@@ -1,8 +1,12 @@
 ---
 name: Josh Tu
 image: images/JTu.jpg
-role: undergrad, alum
-description: (2024) Undergraduate
+description: Undergraduate student
+
+role: alum
+start_date: 2024-08-01
+alumni_date: 2024-12-15
+
 links:
 ---
 

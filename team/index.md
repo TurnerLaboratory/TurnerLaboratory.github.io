@@ -20,4 +20,4 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ^(?!.*\b(pi|mgr|phd|ms|tech|alum)\b).*$" %}
 
 # {% include icon.html icon="fa-solid fa-hand-peace" %}Alumni
-{% include list.html data="members" component="portrait" filters="role: alum" style="small"%}
+{% include alumni-list.html style="card"%}
