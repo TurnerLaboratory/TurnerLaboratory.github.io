@@ -1,6 +1,6 @@
 ---
 name: Gaby Valdivieso
-image: images/GValdivieso.png
+image: images/Gaby.jpg
 role: phd
 links:
 ---
